@@ -2780,3 +2780,10 @@ yieldmo.com, 3591550211052216798, RESELLER, 6a92c77cfc3d2258
 yieldmo.com, 3377199372461613093, RESELLER
 zetaglobal.net, 815, RESELLER
 zetaglobal.net, 546, RESELLER
+video.unrulymedia.com, 476748946, RESELLER
+appnexus.com, 17417, RESELLER, f5ab79cb980f11d1
+xandr.com, 17417, RESELLER, f5ab79cb980f11d1
+showheroes.com, 6037, RESELLER
+unrulymedia.com, 476748946, RESELLER
+bidmachine.io, 1065, RESELLER
+bidmachine.io, 1064, RESELLER
