@@ -3717,3 +3717,10 @@ eliteappgrade.com, 514554, RESELLER
 fromthetop.io, 65529, RESELLER
 iion.io, 10171, RESELLER, 013a29748465dc57
 adingenious.com, 75036, RESELLER
+opera.com, pub12998959884416, RESELLER, 55a0c5fd61378de3
+adsinteractive.com, 39993, RESELLER
+adingo.jp, 32534, RESELLER
+rubiconproject.com, 27386, RESELLER, 0bfd66d529a55807
+hindsightsolutions.net, hsinmobi100000, reseller
+myfeature.tv, n1fnlxqufcvdx3gt6mjn, reseller
+apester.com, 2212, reseller
