@@ -4570,3 +4570,9 @@ smartadserver.com, 4284, RESELLER, 060d053dcf45cbf3
 voisetech.com, 1127, RESELLER, 9009ef0379162448
 smaato.com, 1100059052, reseller, 07bcf65f187117b4
 risecodes.com, 686ea3dfe2c0d50001e494e2, reseller
+media.net, 8CUE65SNU, RESELLER
+freewheel.tv, 1138513-524565, RESELLER
+freewheel.tv, sg1258340, RESELLER
+tradplusad.com, ba761e9c72f279da, reseller
+mobupps.com, c74d97b01eae257e44aa9d5bade97baf33094, reseller
+loopme.com, 15665, reseller, 6c8d5f95897a5a3b
