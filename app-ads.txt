@@ -4650,3 +4650,19 @@ indexexchange.com, 214076, RESELLER, 50b1c356f2c5c8fc
 loopme.com, 15759, RESELLER, 6c8d5f95897a5a3b
 onetag.com, 942f11d96ca6d70, RESELLER
 pubmatic.com, 159856, DIRECT, 5d62403b186f2ace
+appnexus.com, 9726, DIRECT, f5ab79cb980f11d1
+appnexus.com, 12252, DIRECT
+freewheel.tv, 535851-r-524565, RESELLER
+freewheel.tv, 535851-r-523319, RESELLER
+media.net, 8CUIKIUHH, RESELLER
+pubmatic.com, 161831, DIRECT, 5d62403b186f2ace
+video.unrulymedia.com, 390532592, RESELLER
+zetaglobal.net, 512, RESELLER
+themediagrid.com, WS2D8N, RESELLER, 35d5010d7789b49d
+outbrain.com, 0073fa86cff719c752763d2c3ee52c8f00, RESELLER
+indexexchange.com, 214183, RESELLER, 50b1c356f2c5c8fc
+video.unrulymedia.com, 657436911, RESELLER
+trustedstack.com, TSCLS3659, RESELLER
+smartadserver.com, 4868, RESELLER, 060d053dcf45cbf3
+lijit.com, 548876, RESELLER, fafdf38b16bf6b2b
+inmobi.com, 79b5caeef5114b618a16266b6c552933, RESELLER, 83e75a7ae333ca9d
