@@ -4666,3 +4666,18 @@ trustedstack.com, TSCLS3659, RESELLER
 smartadserver.com, 4868, RESELLER, 060d053dcf45cbf3
 lijit.com, 548876, RESELLER, fafdf38b16bf6b2b
 inmobi.com, 79b5caeef5114b618a16266b6c552933, RESELLER, 83e75a7ae333ca9d
+loopme.com, 16697, DIRECT, 6c8d5f95897a5a3b
+loopme.com, 16107, DIRECT, 6c8d5f95897a5a3b
+improvedigital.com, 2316, RESELLER
+display.io, 224469, RESELLER
+axonix.com, 59202, RESELLER
+programmaticx.ai, 6654983, RESELLER, b42d42eb28400efa
+pgamssp.com, 6720eaffd76cc4dc1f00de26, RESELLER
+improvedigital.com, 2604, RESELLER
+adyoulike.com, 1886eb91ab89bb09c703b18910509154, RESELLER
+pubmatic.com, 167130, RESELLER, 5d62403b186f2ace
+appnexus.com, 17779, RESELLER
+xandr.com, 17779, RESELLER
+adingo.jp, 33231, RESELLER
+smartadserver.com, 4194-OB, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4194, RESELLER, 060d053dcf45cbf3
