@@ -4682,3 +4682,8 @@ adingo.jp, 33231, RESELLER
 smartadserver.com, 4194-OB, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4194, RESELLER, 060d053dcf45cbf3
 fivecdm.com,18063265,DIRECT
+outbrain.com, 00092743fa380569f00f929c5c50dfccf8, reseller
+appnexus.com, 17553, RESELLER, f5ab79cb980f11d1
+rubiconproject.com, 25692, RESELLER, 0bfd66d529a55807
+adagio.io, 1280, RESELLER
+improvedigital.com, 2625, RESELLER
