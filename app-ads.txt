@@ -4728,3 +4728,30 @@ tagoras.io, ce25e5260ea251bf4ad1068d57b70720, RESELLER
 themediagrid.com, 64NHQ1, RESELLER, 35d5010d7789b49d
 triplelift.com, 11457, RESELLER, 6c33edb13117fd86
 video.unrulymedia.com, 876890970, RESELLER
+criteo.com, TERO1F, RESELLER, 35d5010d7789b49d
+criteo.com, TVX1JK, RESELLER, 35d5010d7789b49d
+themediagrid.com, TERO1F, RESELLER, 35d5010d7789b49d
+themediagrid.com, TVX1JK, RESELLER, 35d5010d7789b49d
+cgnl.io, 7000, RESELLER
+cignal.io, 7000, RESELLER
+carambo.la, 914730833, RESELLER
+openx.com, 537140323, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 159626, RESELLER, 5d62403b186f2ace
+pubmatic.com, 166836, RESELLER, 5d62403b186f2ace
+algogear.com, 7bce3c82e6da7741, RESELLER
+algogear.com, 406353d0e9db6c5d, RESELLER
+algogear.com, a6bc46b1ba706474, RESELLER
+indexexchange.com, 192505, RESELLER, 50b1c356f2c5c8fc
+loopme.com, 15601, RESELLER, 6c8d5f95897a5a3b
+video.unrulymedia.com, 3890682751, RESELLER
+loopme.com, 11524, RESELLER, 6c8d5f95897a5a3b
+sharethrough.com, 4024, RESELLER, d53b998a7bd4ecd2
+smartadserver.com, 4024, RESELLER, 060d053dcf45cbf3
+anzu.io, 691e95644e633a6eee2567ee, RESELLER, 1c1b7acf4992136c
+pubmatic.com, 158903, RESELLER, 5d62403b186f2ace
+app-stock.com, 562114, RESELLER, ed8c126ea5971415
+openx.com, 543888036, RESELLER, 6a698e2ec38604c6
+media.net, 8CU355VS4, RESELLER
+indexexchange.com, 214429, RESELLER, 50b1c356f2c5c8fc
+sharethrough.com, 3232, reseller, d53b998a7bd4ecd2
+growintech.co, 102275, reseller, 9d8dfe5c6b00fb37
