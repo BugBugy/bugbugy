@@ -4917,3 +4917,6 @@ thejungletechnology.com, 3199628, DIRECT
 tredio.io, 357a6fdf7642bf815a88822c447d9dc437112, DIRECT
 vidazoo.com, 699c3632f07111e90e359d43, RESELLER, b6ada874b4d7d0b2
 xandr.com, 17189, RESELLER
+rubiconproject.com, 13380, RESELLER, 0bfd66d529a55807
+zetaglobal.net, 630, RESELLER
+sharethrough.com, UvcAx8IL, RESELLER, d53b998a7bd4ecd2
