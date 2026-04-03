@@ -4948,3 +4948,16 @@ triplelift.com, 14691, RESELLER, 6c33edb13117fd86
 azberry.com, 921011, RESELLER
 gitberry.com, 812100164, RESELLER
 tubia.com, 50111, RESELLER
+adform.com, 3386, RESELLER, 9f5210a2f0999e32
+adorphic.com, 4061, RESELLER
+adorphic.com, 4062, DIRECT
+adwmg.com, 100789, RESELLER, c9688a22012618e7
+adwmg.com, 102478, RESELLER, c9688a22012618e7
+apexflowsdk.com, 1072, DIRECT
+apexflowsdk.com, 10121, RESELLER
+apexflowsdk.com, 11019, RESELLER
+appnexus.com, 17973, RESELLER, f5ab79cb980f11d1
+sharethrough.com, 5873, RESELLER, d53b998a7bd4ecd2
+smartadserver.com, 5873, RESELLER, 060d053dcf45cbf3
+yieldbid.io, 382212, DIRECT
+yieldbid.io, 382213, DIRECT
