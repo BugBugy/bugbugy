@@ -4961,3 +4961,10 @@ sharethrough.com, 5873, RESELLER, d53b998a7bd4ecd2
 smartadserver.com, 5873, RESELLER, 060d053dcf45cbf3
 yieldbid.io, 382212, DIRECT
 yieldbid.io, 382213, DIRECT
+loopme.com, 14171, RESELLER, 6c8d5f95897a5a3b
+ogury.com, 9da32733-426d-4c5f-b171-5f13986253bc, RESELLER
+tredio.io, 357a6fdf7642bf815a88822c447d9dc437112, RESELLER
+tredio.io, 357a6fdf7642bf815a88822c447d9dc437119, RESELLER
+trustedstack.com, TSCIHPAF6, RESELLER
+indexexchange.com, 215209, reseller, 50b1c356f2c5c8fc
+playdigo.com, 2010, reseller
