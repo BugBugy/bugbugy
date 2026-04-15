@@ -4987,3 +4987,16 @@ bidease.com, bidease_seller_26, RESELLER
 smilewanted.com, 6022, reseller
 risecodes.com, 6967b71f6ae3af000199fab1, reseller
 sharethrough.com, 3817, reseller, d53b998a7bd4ecd2
+apester.com, 190976895, DIRECT
+ergadx.com, 5111, DIRECT
+ergadx.com, 1729319, DIRECT
+media.net, 8CU7B073B, RESELLER
+programmaticx.ai, 100465, RESELLER, b42d42eb28400efa
+programmaticx.ai, 1004783, RESELLER, b42d42eb28400efa
+revealon.media, 18118, DIRECT
+sonobi.com, 0f8997d5a7, RESELLER, d1a215d9eb5aee9e
+targetbetter.com, 6455, RESELLER
+targetbetter.com, 645928, RESELLER
+triplelift.com, 14744, RESELLER, 6c33edb13117fd86
+trustedstack.com, TSLAU41Q2, RESELLER
+zetaglobal.net, 987, RESELLER
