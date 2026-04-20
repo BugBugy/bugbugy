@@ -5000,3 +5000,5 @@ targetbetter.com, 645928, RESELLER
 triplelift.com, 14744, RESELLER, 6c33edb13117fd86
 trustedstack.com, TSLAU41Q2, RESELLER
 zetaglobal.net, 987, RESELLER
+sharethrough.com, 3554, RESELLER, d53b998a7bd4ecd2
+yieldbid.io, 28231, DIRECT
