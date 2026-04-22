@@ -5002,3 +5002,9 @@ trustedstack.com, TSLAU41Q2, RESELLER
 zetaglobal.net, 987, RESELLER
 sharethrough.com, 3554, RESELLER, d53b998a7bd4ecd2
 yieldbid.io, 28231, DIRECT
+algorix.co, 614682, DIRECT, 5b394c12fea27a1d
+conversantmedia.com, 100357, RESELLER, 03113cd04947736d
+playdigo.com, 4121, DIRECT, 92011346d63d3c30
+playdigo.com, 1901, RESELLER
+selectmedia.asia, 178z5a31e427dc0b870536jm, DIRECT, e365c871a27c655d
+themediagrid.com, hgn8tk, RESELLER, 35d5010d7789b49d
