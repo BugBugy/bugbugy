@@ -5051,3 +5051,16 @@ insticator.com, cadff748-965f-4393-a76e-a8f902512bad, RESELLER, b3511ffcafb23a32
 e-planning.net, 6a7f877127485fdb, RESELLER, c1ba615865ed87b2
 inventorypartnerdomain=gadsme.com
 pubmatic.com, 168040, RESELLER, 5d62403b186f2ace
+adagio.io, 1636, RESELLER
+chocolateplatform.com, 22763, RESELLER
+lijit.com, 595809, DIRECT, fafdf38b16bf6b2b
+onetag.com, 969f41d776e4d69, DIRECT
+redmob.io, 20260519000001, RESELLER
+revealon.media, 19162, DIRECT
+revealon.media, 19161, DIRECT
+revealon.media, 19160, DIRECT
+sharethrough.com, 4395, RESELLER, d53b998a7bd4ecd2
+triplelift.com, 13686, DIRECT, 6c33edb13117fd86
+triplelift.com, 13686-EB, DIRECT, 6c33edb13117fd86
+trustedstack.com, TS2ORC7N8, RESELLER
+wecallmedia.com, 1080, DIRECT
