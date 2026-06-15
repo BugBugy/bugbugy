@@ -5064,3 +5064,7 @@ triplelift.com, 13686, DIRECT, 6c33edb13117fd86
 triplelift.com, 13686-EB, DIRECT, 6c33edb13117fd86
 trustedstack.com, TS2ORC7N8, RESELLER
 wecallmedia.com, 1080, DIRECT
+kargo.com,9101,RESELLER,98ccdd9948ed08da
+bluexad.ai, 1996418805747683328, RESELLER
+pubnative.net, 1017792, RESELLER, d641df8625486a7b
+media.net, 8CURB3EY7, RESELLER
