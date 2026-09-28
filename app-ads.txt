@@ -8049,4 +8049,22 @@ smaato.com, 1100059831, reseller, 07bcf65f187117b4
 bold-win.com, 1142, reseller, 71746737d0bab951
 themediagrid.com, 2UFXZO, DIRECT, 9fac4a4a87c2a44f
 video.unrulymedia.com, 1767448067723954599, RESELLER
-
+nativo.com, 6137, RESELLER, 59521ca7cc5e9fee
+openx.com, 609225366, RESELLER, 6a698e2ec38604c6
+adform.com, 3429, reseller, 9f5210a2f0999e32
+freewheel.tv, 535664-r-523319, reseller
+pubmatic.com, 168366, reseller, 5d62403b186f2ace
+nativo.com, 6072, reseller, 59521ca7cc5e9fee
+adform.com, 3428, reseller, 9f5210a2f0999e32
+indexexchange.com, 219174, reseller, 50b1c356f2c5c8fc
+growone.sg, 108b7d5328f7442cd7e19c4463d7ff8d, reseller
+pubmatic.com, 168367, reseller, 5d62403b186f2ace
+pubmatic.com, 168363, reseller, 5d62403b186f2ace
+nativo.com, 6114, reseller, 59521ca7cc5e9fee
+pubmatic.com, 168362, reseller, 5d62403b186f2ace
+indexexchange.com,219174,RESELLER,50b1c356f2c5c8fc
+pubmatic.com,168363,RESELLER,5d62403b186f2ace
+pubmatic.com,168367,RESELLER,5d62403b186f2ace
+adwmg.com, 159512, RESELLER, c9688a22012618e7
+bold-win.com, 1013, RESELLER, 71746737d0bab951
+my-cast.tv, 987033, RESELLER, 8c33fe1bd714ffd7
