@@ -8088,3 +8088,5 @@ pubnative.net,1018294,RESELLER,d641df8625486a7b
 rubiconproject.com,21310,RESELLER,0bfd66d529a55807
 smaato.com,1100060469,RESELLER,07bcf65f187117b4
 triplelift.com,14833,RESELLER,6c33edb13117fd86
+intenze.co, 315, RESELLER
+richaudience.com, 5wLa5vAlFn, RESELLER
