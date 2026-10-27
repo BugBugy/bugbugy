@@ -8090,3 +8090,17 @@ smaato.com,1100060469,RESELLER,07bcf65f187117b4
 triplelift.com,14833,RESELLER,6c33edb13117fd86
 intenze.co, 315, RESELLER
 richaudience.com, 5wLa5vAlFn, RESELLER
+indexexchange.com, 220189, reseller, 50b1c356f2c5c8fc
+monetrix.ai, 10761, RESELLER
+start.io, 131192070, RESELLER
+brightcom.com, 71486, RESELLER
+conversantmedia.com, 101145, RESELLER
+getmediamx.com, 1271486, RESELLER
+onlinemediasolutions.com, 71486, RESELLER, b3868b187e4b6402
+sharethrough.com, 6010, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4253, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 6010, RESELLER, 060d053dcf45cbf3
+sonobi.com, 4d1a8bf76a, DIRECT, d1a215d9eb5aee9e
+theagenticx.ai, 729329, RESELLER
+triplelift.com, 10250, RESELLER, 6c33edb13117fd86
+vdo.ai, 5780, RESELLER
