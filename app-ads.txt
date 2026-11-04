@@ -8104,3 +8104,18 @@ sonobi.com, 4d1a8bf76a, DIRECT, d1a215d9eb5aee9e
 theagenticx.ai, 729329, RESELLER
 triplelift.com, 10250, RESELLER, 6c33edb13117fd86
 vdo.ai, 5780, RESELLER
+adagio.io, 1439, RESELLER
+display.io, 229046, RESELLER
+eskimi.com, 2020000014, RESELLER
+start.io, 197403684, RESELLER
+toponad.com, 6914535b0b4d6, RESELLER, 1d49fe424a1a456d
+triplelift.com, 14851, RESELLER, 6c33edb13117fd86
+freewheel.tv,548888-r-523319,RESELLER,74e8e47458f74754
+freewheel.tv,548888-r-524565,RESELLER,74e8e47458f74754
+freewheel.tv,sg1332502,RESELLER,74e8e47458f74754
+oko.uk,e2d3e33c-9911-477a-8ae2-f059870c67c0,RESELLER,b3511ffcafb23a32
+pubnative.net,1018312,RESELLER,d641df8625486a7b
+triplelift.com,14900,RESELLER,6c33edb13117fd86
+triplelift.com,14901,RESELLER,6c33edb13117fd86
+iqzone.com, iq341, reseller
+nexverse.ai, 24177, reseller
