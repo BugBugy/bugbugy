@@ -8138,3 +8138,13 @@ wecallmedia.com, 1106, DIRECT
 wecallmedia.com, 1107, DIRECT
 sharethrough.com, 3837, RESELLER, 060d053dcf45cbf3
 themediagrid.com, HW1PGR, RESELLER, 9fac4a4a87c2a44f
+nativo.com, 2462, reseller, 59521ca7cc5e9fee
+adform.com, 3004, RESELLER
+appnexus.com, 1504, RESELLER, f5ab79cb980f11d1
+inmobi.com, 2b2231a85ff449b89625e3bcf79121be, RESELLER, 83e75a7ae333ca9d
+onetag.com, 7d8634e6eea97cb, RESELLER
+rubiconproject.com, 25458, RESELLER
+sharethrough.com, 4741, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4741, RESELLER, 060d053dcf45cbf3
+stailamedia.com, 7384926, RESELLER
+video.unrulymedia.com, 360589677, RESELLER
